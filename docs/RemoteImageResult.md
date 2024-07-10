@@ -1,0 +1,12 @@
+# RemoteImageResult
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**images** | [RemoteImageInfo] |  | [optional] 
+**totalRecordCount** | **Int** |  | [optional] 
+**providers** | **[String]** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

@@ -1,0 +1,13 @@
+# LiveTvGetPrograms
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**isAiring** | **Bool** |  | [optional] 
+**enableTotalRecordCount** | **Bool** |  | [optional] 
+**seriesTimerId** | **String** |  | [optional] 
+**librarySeriesId** | **String** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
